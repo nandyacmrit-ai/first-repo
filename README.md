@@ -1,4 +1,11 @@
-This is my very first repository! 🎉 
-It’s a starting point for learning, experimenting, and building projects. 
-The repo contains basic code and examples to help me practice version control, 
-project organization, and collaboration using GitHub.
+
+  # Get Ready With Me App
+
+  This is a code bundle for Get Ready With Me App. The original project is available at https://www.figma.com/design/HTPEG4634Q3cxczIqy9DHv/Get-Ready-With-Me-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
